@@ -1,6 +1,5 @@
 # tinyRamda
 
-# tiny Ramda
 * This is a simple transpiler, translating from a minimal syntax to Ramda
   * pipes are added
   * parentheses are added
